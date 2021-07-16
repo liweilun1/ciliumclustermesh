@@ -1,1 +1,1 @@
-FROM quay.io/cilium/clustermesh-apiserver:v1.10.2
+FROM quay.io/cilium/clustermesh-apiserver:v1.10.3
